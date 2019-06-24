@@ -1,0 +1,15 @@
+C:\Users\БайназарС\source\repos\MCast\MCast\bin\Debug\MCast.exe.config
+C:\Users\БайназарС\source\repos\MCast\MCast\bin\Debug\MCast.exe
+C:\Users\БайназарС\source\repos\MCast\MCast\bin\Debug\MCast.pdb
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MCast.csprojAssemblyReference.cache
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MainWindow.g.cs
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\App.g.cs
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MCast_MarkupCompile.cache
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MCast_MarkupCompile.lref
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MainWindow.baml
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MCast.g.resources
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MCast.Properties.Resources.resources
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MCast.csproj.GenerateResource.cache
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MCast.csproj.CoreCompileInputs.cache
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MCast.exe
+C:\Users\БайназарС\source\repos\MCast\MCast\obj\Debug\MCast.pdb
